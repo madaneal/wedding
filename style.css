@@ -34,3 +34,8 @@ body {font-family: sans-serif;}
   position: absolute;
   z-index: -1;   
 }
+
+.bg {
+    background-image: url('bg1.jpg');
+    background-size: cover;
+}
